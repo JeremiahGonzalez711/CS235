@@ -1,0 +1,12 @@
+---
+:id: 248045914
+:submitters:
+- :name: Jeremiah L Gonzalez
+  :email: jeremiah.gonzalez88@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-04-19 02:14:13.340105000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-04-18 19:14:13.340105000 Z
+:status: processed
+:score: 100.0
